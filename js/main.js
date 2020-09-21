@@ -9,5 +9,5 @@ function eventListeners() {
 function validate_form_contact(e){
   e.preventDefault();
 
-  alert("Validamos");
+  //alert("Validamos");
 }

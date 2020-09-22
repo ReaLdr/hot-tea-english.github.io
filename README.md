@@ -1,3 +1,3 @@
-# Painas [Hot Tea English]
+# Paina's [Hot Tea English]
 
 * Publicado en github pages.
